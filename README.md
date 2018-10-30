@@ -1,6 +1,6 @@
 # CS853FinalProject
 
-Group 7: Kunpeng Xie, Xin Liu
+Group 7: Kunpeng Xie
 
 try pull
 
